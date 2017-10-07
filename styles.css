@@ -1,0 +1,138 @@
+.form
+{
+    padding: 0px 0px 0px 0px;
+    margin:95px 0px 0px 0px;
+    text-align: center;
+}
+.form-search-input
+{
+    width: 0px;
+    height: 50px;
+    border: 0;
+    outline: 0;
+    font-size: 21px;
+    padding: 0px 0px 0px 0px;
+    color: rgba(54, 51, 51, 0.86);
+    transition: all 0.5s;
+    font-family: 'Open Sans Condensed', sans-serif;
+    margin:0 auto;
+}
+.search-input-open{
+    width: 410px !important;
+    padding: 0px 0px 0px 20px !important;
+    display: initial !important;
+    margin:0 auto;
+    
+}
+.form-search-submit{
+    margin:0 auto;
+    display: inline-block;
+    width: 60px;
+    height: 30px;
+    border: 0;
+    outline: 0;
+    background-color:rgba(54, 51, 51, 0.86);
+    font-size: 21px;
+    color: #FFF;
+    cursor: pointer;
+    text-align: center;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+.login{
+    margin:0 auto;
+    display: inline-block;
+    width: 60px;
+    height: 32px;
+    border: 0;
+    outline: 0;
+    background-color:rgba(54, 51, 51, 0.86);
+    font-size: 21px;
+    color: #FFF;
+    cursor: pointer;
+    text-align: center;
+    font-family: 'Open Sans Condensed', sans-serif;
+    float: left;
+}
+
+.register{
+    margin:0 auto;
+    display: inline-block;
+    width: 68px;
+    height: 32px;
+    border: 0;
+    outline: 0;
+    background-color:rgba(54, 51, 51, 0.86);
+    font-size: 21px;
+    color: #FFF;
+    cursor: pointer;
+    text-align: center;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+.register-form
+{
+    width: 0px;
+    height: 50px;
+    border: 0;
+    outline: 0;
+    font-size: 21px;
+    padding: 0px 0px 0px 0px;
+/*     color: rgba(54, 51, 51, 0.86); */
+    transition: all 0.5s;
+    font-family: 'Open Sans Condensed', sans-serif;
+    background-color: #3CBC8D;
+    color: white;
+}
+.register-button
+{
+	padding: 5px 10px 6px !important;
+	font-size: 15px !important;
+	background-color: rgba(54, 51, 51, 0.86);
+/* 	font-weight: bold; */
+		color: #ffffff;
+	border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	cursor: pointer;
+	font-family: 'Open Sans Condensed', sans-serif;
+
+}
+
+
+
+.top
+{
+    /* surround with whitespace */
+    margin-bottom: 15px;
+    margin-top: 15px;
+    text-align:center;
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
+    font-size: 50px;
+    text-decoration: underline;
+    
+}
+.subhead
+{
+	font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 15px;
+    text-align: center;
+}
+.bottom
+{
+    /* shrink bottom's font size */
+    font-size: smaller;
+    text-align: center;
+    
+
+    /* surround with whitespace */
+    margin: 40%;
+    font-family: 'Roboto', sans-serif;
+}
+
+.body {
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+    
+}
+
